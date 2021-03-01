@@ -16,4 +16,4 @@
 Self Healing: one of the container is failed, it will restar the container on its own. If node fails , failed containers are deploying into the new node.
 <br>
 <br>
-**Batch Execution:**
+**Batch Execution:** Kuberntes manage Batch and CI workloads.
